@@ -1,0 +1,4152 @@
+{
+  "Direito": {
+    "1º Semestre": [
+      {
+        "nome": "DEMOCRACIA E CONSTITUIÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DIREITO DA PESSOA I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INTRODUÇÃO AO ESTUDO DO DIREITO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "REALIDADE BRASILEIRA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "CLÍNICA I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DIREITO DA PESSOA II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA DO PENSAMENTO POLÍTICO E CULTURAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INTRODUÇÃO AO ESTUDO DO DIREITO II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ORGANIZAÇÃO DO ESTADO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ORGANIZAÇÃO JURÍDICA DAS RELAÇÕES ECONÔMICAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "ATUAÇÃO ADMINISTRATIVA DO ESTADO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIÊNCIA DE DADOS APLICADA AO DIREITO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "OBRIGAÇÕES E CONTRATOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "POLÍTICA CRIMINAL E DIREITO PENAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "TEORIA GERAL DO PROCESSO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "CIÊNCIA DE DADOS APLICADA AO DIREITO II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CLÍNICA II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DIREITO E PROCESSO PENAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ORGANIZAÇÃO DA SOCIEDADE CIVIL I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROPRIEDADE URBANA E RURAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "RESPONSABILIDADE CIVIL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "CONTABILIDADE E FINANÇAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DIREITO DO MERCADO E DA EMPRESA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FINANÇAS PÚBLICAS E TRIBUTAÇÃO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROCESSOS DE RESOLUÇÃO DE CONFLITOS I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "REGULAÇÃO DE TECNOLOGIA E SOCIEDADE CIVIL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "CLÍNICA III",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DIREITO ECONÔMICO E REGULATÓRIO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DIREITO INTERNACIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "EMPREENDEDORISMO E INOVAÇÃO NO DIREITO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FINANÇAS PÚBLICAS E TRIBUTAÇÃO II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROCESSOS DE RESOLUÇÃO DE CONFLITOS II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "7º Semestre": [
+      {
+        "nome": "ORGANIZAÇÃO DO TRABALHO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROCESSOS DE DECISÃO CONSTITUCIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROJETO DE PRÁTICA JURÍDICA I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ]
+  },
+  "Ciências Econômicas": {
+    "1º Semestre": [
+      {
+        "nome": "ECONOMETRIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CÁLCULO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO E EMPREENDEDORISMO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PENSAMENTO CRÍTICO E ÉTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS DE INFORMAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "CÁLCULO II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CONTABILIDADE FINANCEIRA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ESTATÍSTICA I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FUNDAMENTOS DE MACROECONOMIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SOCIOLOGIA E POLÍTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "ESTATÍSTICA II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FINANÇAS I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA DAS INSTITUIÇÕES E DO CAPITALISMO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MODELOS PARA TOMADA DE DECISÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "FINANÇAS II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA DO PENSAMENTO ECONÔMICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MACROECONOMIA INTERNACIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA III",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "ECONOMETRIA AVANÇADA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FINANÇAS III",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA ECONÔMICA DO BRASIL I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MACROECONOMIA DE CURTO PRAZO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA IV",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "COMÉRCIO INTERNACIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESENVOLVIMENTO ECONÔMICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DIREITO E ECONOMIA DAS POLITICAS PÚBLICAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA ECONÔMICA DO BRASIL II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROBLEMAS EM ECONOMIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ]
+  },
+  "Administração": {
+    "1º Semestre": [
+      {
+        "nome": "CÁLCULO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO E EMPREENDEDORISMO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PENSAMENTO CRÍTICO E ÉTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS DE INFORMAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "CÁLCULO II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CONTABILIDADE FINANCEIRA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ESTATÍSTICA I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FUNDAMENTOS DE MACROECONOMIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SOCIOLOGIA E POLÍTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "ESTATÍSTICA II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FINANÇAS I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA DAS INSTITUIÇÕES E DO CAPITALISMO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MODELOS PARA TOMADA DE DECISÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "FINANÇAS II",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA DO PENSAMENTO ECONÔMICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MACROECONOMIA INTERNACIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA III",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "ECONOMETRIA AVANÇADA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FINANÇAS III",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "HISTÓRIA ECONÔMICA DO BRASIL I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MACROECONOMIA DE CURTO PRAZO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MICROECONOMIA IV",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "ESTRATÉGIA DE PESSOAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MARKETING 2",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "RESOLUÇÃO EFICAZ DE PROBLEMAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ]
+  },
+  "Ciência da Computação": {
+    "1º Semestre": [
+      {
+        "nome": "ÉTICA, COMPUTAÇÃO E SOCIEDADE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "VIDA DE DESENVOLVEDOR DE SOFTWARE - DEVELOPER LIFE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "ÉTICA, COMPUTAÇÃO E SOCIEDADE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "VIDA DE DESENVOLVEDOR DE SOFTWARE - DEVELOPER LIFE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "BITS E PROCESSADORES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIÊNCIA DOS DADOS PARA COMPUTAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MATEMÁTICA DO CONTINUO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROGRAMAÇÃO EFICAZ",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROJETO ÁGIL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SESSÃO SPRINT 2",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ALGEBRA LINEAR E TEORIA DA INFORMAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS OPERACIONAIS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "COMPUTAÇÃO CONCORRENTE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROBABILIDADE E ESTATÍSTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "BANCOS DE DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "REDES DE COMPUTADORES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ENGENHARIA DE SOFTWARE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "TEORIA DA COMPUTAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "INTELIGÊNCIA ARTIFICIAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SEGURANÇA DA INFORMAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ARQUITETURA DE SISTEMAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "OTIMIZAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "SISTEMAS DISTRIBUÍDOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "APRENDIZADO DE MÁQUINA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROJETO FINAL - CAPSTONE I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "7º Semestre": [
+      {
+        "nome": "ESTÁGIO SUPERVISIONADO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "8º Semestre": []
+  },
+  "Engenharia de Computação": {
+    "1º Semestre": [
+      {
+        "nome": "DESIGN DE SOFTWARE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE PRODUTO E SERVIÇO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GRANDES DESAFIOS DA ENGENHARIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MODELAGEM E SIMULAÇÃO DO MUNDO FÍSICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INSTRUMENTAÇÃO E MEDIÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "MATEMÁTICA DA VARIAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FÍSICA DO MOVIMENTO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ACIONAMENTOS ELÉTRICOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE PROCESSO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIÊNCIA DOS DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIRCUITOS DIGITAIS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS EMBARCADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROBABILIDADE E ESTATÍSTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "COMUNICAÇÃO E ESCRITA CIENTÍFICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "ARQUITETURA DE COMPUTADORES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS OPERACIONAIS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ENGENHARIA DE SOFTWARE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "TEORIA DA COMPUTAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MODELAGEM DE SISTEMAS DINÂMICOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "REDES DE COMPUTADORES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "BANCOS DE DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS DISTRIBUÍDOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INTERFACE HOMEM-MÁQUINA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "INTELIGÊNCIA ARTIFICIAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SEGURANÇA DE REDES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "VISÃO COMPUTACIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "EMPREENDEDORISMO E GESTÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "7º Semestre": [
+      {
+        "nome": "ESTÁGIO SUPERVISIONADO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "8º Semestre": [
+      {
+        "nome": "PROJETO FINAL - CAPSTONE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "9º Semestre": [
+      {
+        "nome": "ESTÁGIO SUPERVISIONADO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ]
+  },
+  "Engenharia Mecânica": {
+    "1º Semestre": [
+      {
+        "nome": "DESIGN DE PRODUTO E SERVIÇO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE SOFTWARE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GRANDES DESAFIOS DA ENGENHARIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INSTRUMENTAÇÃO E MEDIÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MODELAGEM E SIMULAÇÃO DO MUNDO FÍSICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "ACIONAMENTOS ELÉTRICOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIÊNCIA DOS DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE PROCESSO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FÍSICA DO MOVIMENTO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MATEMÁTICA DA VARIAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "TERMODINÂMICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MECÂNICA DOS SÓLIDOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MATERIAIS DE ENGENHARIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MECÂNICA DOS FLUIDOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CÁLCULO NUMÉRICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "TRANSFERÊNCIA DE CALOR",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DINÂMICA DAS MÁQUINAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ELEMENTOS DE MÁQUINAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FABRICAÇÃO MECÂNICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS DE CONTROLE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "SISTEMAS TÉRMICOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "VIBRAÇÕES MECÂNICAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MECÂNICA COMPUTACIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO DA PRODUÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "PROJETO MECÂNICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "AUTOMAÇÃO INDUSTRIAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MANUTENÇÃO INDUSTRIAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "7º Semestre": [
+      {
+        "nome": "ESTÁGIO SUPERVISIONADO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "8º Semestre": [
+      {
+        "nome": "PROJETO FINAL - CAPSTONE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "9º Semestre": []
+  },
+  "Engenharia Mecatrônica": {
+    "1º Semestre": [
+      {
+        "nome": "DESIGN DE PRODUTO E SERVIÇO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE SOFTWARE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GRANDES DESAFIOS DA ENGENHARIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INSTRUMENTAÇÃO E MEDIÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MODELAGEM E SIMULAÇÃO DO MUNDO FÍSICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "ACIONAMENTOS ELÉTRICOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIÊNCIA DOS DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE PROCESSO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FÍSICA DO MOVIMENTO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MATEMÁTICA DA VARIAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIRCUITOS DIGITAIS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS EMBARCADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MECÂNICA DOS SÓLIDOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROBABILIDADE E ESTATÍSTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "ARQUITETURA DE COMPUTADORES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DINÂMICA DAS MÁQUINAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ELEMENTOS DE MÁQUINAS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FABRICAÇÃO MECÂNICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS DE CONTROLE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "AUTOMAÇÃO INDUSTRIAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SENSORES E ATUADORES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ROBÓTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO DA PRODUÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "PROJETO DE SISTEMAS MECATRÔNICOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INTELIGÊNCIA ARTIFICIAL APLICADA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "7º Semestre": [
+      {
+        "nome": "ESTÁGIO SUPERVISIONADO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "8º Semestre": [
+      {
+        "nome": "PROJETO FINAL - CAPSTONE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "9º Semestre": []
+  },
+  "Engenharia de Produção": {
+    "1º Semestre": [
+      {
+        "nome": "DESIGN DE PRODUTO E SERVIÇO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE SOFTWARE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GRANDES DESAFIOS DA ENGENHARIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INSTRUMENTAÇÃO E MEDIÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MODELAGEM E SIMULAÇÃO DO MUNDO FÍSICO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "2º Semestre": [
+      {
+        "nome": "ACIONAMENTOS ELÉTRICOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CIÊNCIA DOS DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "DESIGN DE PROCESSO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "FÍSICA DO MOVIMENTO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MATEMÁTICA DA VARIAÇÃO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "3º Semestre": [
+      {
+        "nome": "ALGORITMOS E ESTRUTURA DE DADOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "TERMODINÂMICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "PROBABILIDADE E ESTATÍSTICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "MATERIAIS DE ENGENHARIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "INTRODUÇÃO À ECONOMIA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "4º Semestre": [
+      {
+        "nome": "PESQUISA OPERACIONAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO DA PRODUÇÃO E OPERAÇÕES",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "CONTABILIDADE DE CUSTOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "SISTEMAS DE INFORMAÇÃO GERENCIAL",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO DA QUALIDADE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "5º Semestre": [
+      {
+        "nome": "LOGÍSTICA E CADEIA DE SUPRIMENTOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ENGENHARIA FINANCEIRA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "ERGONOMIA E SEGURANÇA DO TRABALHO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO ESTRATÉGICA",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "6º Semestre": [
+      {
+        "nome": "EMPREENDEDORISMO",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      },
+      {
+        "nome": "GESTÃO DE PROJETOS",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "7º Semestre": [
+      {
+        "nome": "ESTÁGIO SUPERVISIONADO I",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "8º Semestre": [
+      {
+        "nome": "PROJETO FINAL - CAPSTONE",
+        "avaliacoes": [
+          {
+            "nome": "PI",
+            "peso": "20"
+          },
+          {
+            "nome": "APS",
+            "peso": "30"
+          },
+          {
+            "nome": "PF",
+            "peso": "50"
+          }
+        ]
+      }
+    ],
+    "9º Semestre": []
+  }
+}

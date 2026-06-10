@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Notas - Insper</title>
+    
+    <!-- Tailwind CSS para estilização rápida e moderna -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- html2pdf.js para exportação direta em PDF no client-side -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8fafc;
+        }
+        /* Oculta botões e filtros na hora de gerar o PDF */
+        @media print {
+            .no-print { display: none !important; }
+            .print-card { border: none !important; box-shadow: none !important; background: white !important; }
+        }
+    </style>
+</head>
+<body class="p-4 md:p-8 text-slate-800">
+
+    <div class="max-w-5xl mx-auto">
+        <!-- Header -->
+        <header class="mb-8 flex flex-col md:flex-row justify-between items-start md:items-center gap-4 border-b border-slate-200 pb-6">
+            <div>
+                <h1 class="text-3xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
+                    <span class="text-red-600 font-extrabold">Insper</span> Grade Planner
+                </h1>
+                <p class="text-slate-500 mt-1">Insira suas notas, ajuste os pesos conforme o plano de ensino e planeje seu semestre.</p>
+            </div>
+            <button onclick="exportarPDF()" class="no-print bg-slate-900 hover:bg-slate-800 text-white px-5 py-2.5 rounded-lg font-medium text-sm transition-all shadow-sm flex items-center gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+                Exportar PDF
+            </button>
+        </header>
+
+        <!-- Seletores (Filtros do Catálogo) -->
+        <div class="no-print bg-white p-5 rounded-xl shadow-sm border border-slate-200 mb-6 grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div>
+                <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-2">Curso</label>
+                <select id="select-curso" onchange="carregarSemestres()" class="w-full bg-slate-50 border border-slate-300 text-slate-700 rounded-lg p-2.5 text-sm focus:ring-2 focus:ring-red-500 focus:border-red-500 transition-all"></select>
+            </div>
+            <div>
+                <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-2">Semestre</label>
+                <select id="select-semestre" onchange="renderizarMaterias()" class="w-full bg-slate-50 border border-slate-300 text-slate-700 rounded-lg p-2.5 text-sm focus:ring-2 focus:ring-red-500 focus:border-red-500 transition-all"></select>
+            </div>
+        </div>
+
+        <!-- Área de Impressão / Conteúdo Principal -->
+        <div id="conteudo-relatorio">
+            <!-- Informações do Aluno no Topo do PDF (Ficam ocultas na tela e visíveis no PDF) -->
+            <div class="hidden print:block mb-6 pb-4 border-b border-slate-300">
+                <h2 class="text-xl font-bold text-slate-900">Relatório de Desempenho Acadêmico</h2>
+                <p id="pdf-meta" class="text-sm text-slate-600 mt-1"></p>
+            </div>
+
+            <!-- Grid de Matérias (Injetado via app.js) -->
+            <div id="grid-materias" class="grid grid-cols-1 gap-6">
+                <!-- O conteúdo dinâmico aparecerá aqui -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Importação dos Scripts Locais na ordem correta -->
+    <script src="js/calculator.js"></script>
+    <script src="js/pdf_export.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
