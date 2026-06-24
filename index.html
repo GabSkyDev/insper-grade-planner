@@ -3,74 +3,261 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora de Notas - Insper</title>
-    
-    <!-- Tailwind CSS para estilização rápida e moderna -->
+    <title>Insper Grade Planner — Calculadora de Notas</title>
+
+    <script src="js/theme.js"></script>
+
     <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- html2pdf.js para exportação direta em PDF no client-side -->
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
+                    },
+                    colors: {
+                        insper: {
+                            50: '#fef2f2',
+                            100: '#fee2e2',
+                            500: '#ef4444',
+                            600: '#dc2626',
+                            700: '#b91c1c',
+                        },
+                    },
+                    boxShadow: {
+                        'card': '0 1px 3px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.04)',
+                        'card-dark': '0 1px 3px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.2)',
+                    },
+                },
+            },
+        };
+    </script>
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-    
+
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f8fafc;
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+        :root {
+            color-scheme: light;
+            --bg-base: #f8fafc;
+            --bg-hero: linear-gradient(135deg, #ffffff 0%, #f1f5f9 50%, #fef2f2 100%);
+            --bg-surface: #ffffff;
+            --bg-surface-raised: #f8fafc;
+            --bg-input: #f1f5f9;
+            --border: #e2e8f0;
+            --border-subtle: #f1f5f9;
+            --text-primary: #0f172a;
+            --text-secondary: #64748b;
+            --text-muted: #94a3b8;
+            --accent: #dc2626;
+            --accent-soft: #fef2f2;
+            --glow: rgba(220, 38, 38, 0.08);
         }
-        /* Oculta botões e filtros na hora de gerar o PDF */
+
+        .dark {
+            color-scheme: dark;
+            --bg-base: #0b0f19;
+            --bg-hero: linear-gradient(135deg, #0b0f19 0%, #111827 50%, #1a0a0a 100%);
+            --bg-surface: #141b2d;
+            --bg-surface-raised: #1a2332;
+            --bg-input: #1e293b;
+            --border: #2a3548;
+            --border-subtle: #1e293b;
+            --text-primary: #f1f5f9;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --accent: #f87171;
+            --accent-soft: rgba(248, 113, 113, 0.1);
+            --glow: rgba(248, 113, 113, 0.12);
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+            background-color: var(--bg-base);
+            color: var(--text-primary);
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .hero-gradient {
+            background: var(--bg-hero);
+        }
+
+        .surface-card {
+            background-color: var(--bg-surface);
+            border: 1px solid var(--border);
+        }
+
+        .surface-raised {
+            background-color: var(--bg-surface-raised);
+            border: 1px solid var(--border);
+        }
+
+        .input-field {
+            background-color: var(--bg-input);
+            border: 1px solid var(--border);
+            color: var(--text-primary);
+        }
+
+        .input-field:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--glow);
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+            color: white;
+            transition: all 0.2s ease;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(220, 38, 38, 0.35);
+        }
+
+        .dark .btn-primary {
+            background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%);
+        }
+
+        .btn-ghost {
+            background-color: var(--bg-surface-raised);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            transition: all 0.2s ease;
+        }
+
+        .btn-ghost:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .theme-toggle {
+            background-color: var(--bg-surface-raised);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            transition: all 0.2s ease;
+        }
+
+        .theme-toggle:hover {
+            border-color: var(--accent);
+            color: var(--accent);
+        }
+
+        .accent-dot {
+            background: linear-gradient(135deg, #dc2626, #f87171);
+        }
+
+        .alert-info {
+            background-color: #eff6ff;
+            color: #1d4ed8;
+            border-color: #bfdbfe;
+        }
+
+        .dark .alert-info {
+            background-color: rgba(30, 58, 138, 0.25);
+            color: #93c5fd;
+            border-color: #1e3a8a;
+        }
+
         @media print {
             .no-print { display: none !important; }
-            .print-card { border: none !important; box-shadow: none !important; background: white !important; }
+            .print-card {
+                border: none !important;
+                box-shadow: none !important;
+                background: white !important;
+                color: #0f172a !important;
+            }
         }
     </style>
 </head>
-<body class="p-4 md:p-8 text-slate-800">
+<body class="min-h-screen">
 
-    <div class="max-w-5xl mx-auto">
-        <!-- Header -->
-        <header class="mb-8 flex flex-col md:flex-row justify-between items-start md:items-center gap-4 border-b border-slate-200 pb-6">
-            <div>
-                <h1 class="text-3xl font-bold text-slate-900 tracking-tight flex items-center gap-2">
-                    <span class="text-red-600 font-extrabold">Insper</span> Grade Planner
-                </h1>
-                <p class="text-slate-500 mt-1">Insira suas notas, ajuste os pesos conforme o plano de ensino e planeje seu semestre.</p>
-            </div>
-            <button onclick="exportarPDF()" class="no-print bg-slate-900 hover:bg-slate-800 text-white px-5 py-2.5 rounded-lg font-medium text-sm transition-all shadow-sm flex items-center gap-2">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                </svg>
-                Exportar PDF
-            </button>
-        </header>
+    <!-- Hero / Header -->
+    <div class="hero-gradient border-b border-[var(--border)] no-print">
+        <div class="max-w-5xl mx-auto px-4 md:px-8 pt-8 pb-10">
+            <header class="flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
+                <div class="flex items-start gap-4">
+                    <div class="accent-dot w-10 h-10 rounded-xl flex-shrink-0 mt-1 shadow-lg shadow-red-500/20"></div>
+                    <div>
+                        <div class="flex items-center gap-2 mb-1">
+                            <span class="text-xs font-semibold uppercase tracking-widest text-insper-600 dark:text-red-400">Insper</span>
+                            <span class="text-xs text-[var(--text-muted)]">·</span>
+                            <span class="text-xs font-medium text-[var(--text-muted)]">Grade Planner</span>
+                        </div>
+                        <h1 class="text-2xl md:text-3xl font-extrabold tracking-tight text-[var(--text-primary)]">
+                            Planeje suas notas<br class="hidden sm:block"> com precisão
+                        </h1>
+                        <p class="text-sm text-[var(--text-secondary)] mt-2 max-w-md leading-relaxed">
+                            Insira suas notas, ajuste os pesos conforme o plano de ensino e projete seu desempenho no semestre.
+                        </p>
+                    </div>
+                </div>
 
-        <!-- Seletores (Filtros do Catálogo) -->
-        <div class="no-print bg-white p-5 rounded-xl shadow-sm border border-slate-200 mb-6 grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div>
-                <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-2">Curso</label>
-                <select id="select-curso" onchange="carregarSemestres()" class="w-full bg-slate-50 border border-slate-300 text-slate-700 rounded-lg p-2.5 text-sm focus:ring-2 focus:ring-red-500 focus:border-red-500 transition-all"></select>
-            </div>
-            <div>
-                <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-2">Semestre</label>
-                <select id="select-semestre" onchange="renderizarMaterias()" class="w-full bg-slate-50 border border-slate-300 text-slate-700 rounded-lg p-2.5 text-sm focus:ring-2 focus:ring-red-500 focus:border-red-500 transition-all"></select>
+                <div class="flex items-center gap-2 self-start md:self-center">
+                    <button
+                        id="btn-theme"
+                        onclick="toggleTheme()"
+                        class="theme-toggle no-print flex items-center gap-2 px-3 py-2.5 rounded-xl text-sm font-medium"
+                        aria-label="Alternar tema"
+                        title="Alternar tema"
+                    >
+                        <svg id="icon-sun" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+                        </svg>
+                        <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+                        </svg>
+                        <span id="theme-label" class="hidden sm:inline">Modo escuro</span>
+                    </button>
+
+                    <button onclick="exportarPDF()" class="btn-primary no-print px-5 py-2.5 rounded-xl font-semibold text-sm flex items-center gap-2 shadow-md">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                        </svg>
+                        Exportar PDF
+                    </button>
+                </div>
+            </header>
+        </div>
+    </div>
+
+    <div class="max-w-5xl mx-auto px-4 md:px-8 py-8">
+
+        <!-- Filtros -->
+        <div class="no-print surface-card p-5 md:p-6 rounded-2xl shadow-card dark:shadow-card-dark mb-8">
+            <p class="text-xs font-semibold uppercase tracking-widest text-[var(--text-muted)] mb-4">Selecione o período</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                    <label class="block text-sm font-medium text-[var(--text-secondary)] mb-2">Curso</label>
+                    <select id="select-curso" onchange="carregarSemestres()" class="input-field w-full rounded-xl px-3 py-2.5 text-sm font-medium transition-all"></select>
+                </div>
+                <div>
+                    <label class="block text-sm font-medium text-[var(--text-secondary)] mb-2">Semestre</label>
+                    <select id="select-semestre" onchange="renderizarMaterias()" class="input-field w-full rounded-xl px-3 py-2.5 text-sm font-medium transition-all"></select>
+                </div>
             </div>
         </div>
 
-        <!-- Área de Impressão / Conteúdo Principal -->
+        <!-- Conteúdo principal -->
         <div id="conteudo-relatorio">
-            <!-- Informações do Aluno no Topo do PDF (Ficam ocultas na tela e visíveis no PDF) -->
             <div class="hidden print:block mb-6 pb-4 border-b border-slate-300">
                 <h2 class="text-xl font-bold text-slate-900">Relatório de Desempenho Acadêmico</h2>
                 <p id="pdf-meta" class="text-sm text-slate-600 mt-1"></p>
             </div>
 
-            <!-- Grid de Matérias (Injetado via app.js) -->
-            <div id="grid-materias" class="grid grid-cols-1 gap-6">
-                <!-- O conteúdo dinâmico aparecerá aqui -->
-            </div>
+            <div id="grid-materias" class="grid grid-cols-1 gap-6"></div>
         </div>
+
+        <!-- Footer -->
+        <footer class="no-print mt-12 pt-6 border-t border-[var(--border)] text-center">
+            <p class="text-xs text-[var(--text-muted)]">
+                Insper Grade Planner · Ferramenta independente para planejamento acadêmico
+            </p>
+        </footer>
     </div>
 
-    <!-- Importação dos Scripts Locais na ordem correta -->
     <script src="js/calculator.js"></script>
     <script src="js/pdf_export.js"></script>
     <script src="js/app.js"></script>
